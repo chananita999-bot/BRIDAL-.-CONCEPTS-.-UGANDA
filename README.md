@@ -1,5 +1,3 @@
-[BOOK WITH US NOWa.html](https://github.com/user-attachments/files/29642149/BOOK.WITH.US.NOWa.html)
-
 <!doctype html>
 <html lang="en">
   <head>
